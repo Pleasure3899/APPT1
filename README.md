@@ -1,5 +1,3 @@
-# APPT1
-Type Guesser
 The result of this task should be done in a form of console application. 
 
 It is preferable to use .NET Core console application instead of .NET full framework.
